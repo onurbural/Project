@@ -9,16 +9,23 @@ class Program
     {
         var context = new onurContext();
 
-        var query = context.Tableonurs.Where(x=>x.Id<3).Select(x => new
+        var query = context.Tableonurs.Select(x => new
         {
-            AradakiFark = (x.BaslangicZaman.ToDateTime(TimeOnly.MinValue) - x.KayitZamani).TotalDays
+            AradakiFarkGun = (x.BaslangicZaman.ToDateTime(TimeOnly.MinValue) - x.KayitZamani).TotalDays,
+            AradakiFarkSaat = (x.BaslangicSaat.ToTimeSpan() - x.KayitZamani.TimeOfDay).TotalHours
+            //yukarıdaki sorgu sql e => SELECT [t].[BaslangicZaman], [t].[KayitZamani], [t].[BaslangicSaat], CONVERT(time, [t].[KayitZamani]) FROM[tableonur] AS[t] şeklinde convert ediliyor.
         });
 
         var sqlQuery = query.ToQueryString();
 
+        int i = 1;
         foreach (var result in query)
         {
-            Console.WriteLine(result.AradakiFark);
+            i++;
+            Console.WriteLine($" {i} Aradaki Fark (Gün): {result.AradakiFarkGun}");     
+
+            Console.WriteLine($" {i} Aradaki Fark (Saat): {result.AradakiFarkSaat}");       
+
         }
     }
 }

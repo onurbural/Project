@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Projem1.Models;
 
@@ -11,9 +12,11 @@ using Projem1.Models;
 namespace Projem1.Migrations
 {
     [DbContext(typeof(onurContext))]
-    partial class onurContextModelSnapshot : ModelSnapshot
+    [Migration("20240723120738_updated")]
+    partial class updated
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

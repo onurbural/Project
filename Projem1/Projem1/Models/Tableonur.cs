@@ -13,5 +13,7 @@ public partial class Tableonur
 
     public DateOnly BaslangicZaman { get; set; }
 
+    public TimeOnly BaslangicSaat { get; set; }
+
     public DateTime KayitZamani { get; set; }
 }
