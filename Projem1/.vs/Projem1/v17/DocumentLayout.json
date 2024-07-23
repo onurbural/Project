@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\tableonur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\tableonur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\onurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\onurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 935,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\efpt.config.json",
+              "RelativeDocumentMoniker": "Projem1\\efpt.config.json",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\efpt.config.json",
+              "RelativeToolTip": "Projem1\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T11:23:27.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tableonur.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Tableonur.cs",
+              "RelativeDocumentMoniker": "Projem1\\Models\\Tableonur.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Tableonur.cs",
+              "RelativeToolTip": "Projem1\\Models\\Tableonur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:35:11.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "onurContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\onurContext.cs",
+              "RelativeDocumentMoniker": "Projem1\\Models\\onurContext.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\onurContext.cs",
+              "RelativeToolTip": "Projem1\\Models\\onurContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA4wBYAAAC6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:35:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Program.cs",
+              "RelativeDocumentMoniker": "Projem1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Program.cs",
+              "RelativeToolTip": "Projem1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:34:06.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
