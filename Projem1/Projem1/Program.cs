@@ -13,7 +13,7 @@ class Program
         {
             AradakiFarkGun = (x.BaslangicZaman.ToDateTime(TimeOnly.MinValue) - x.KayitZamani).TotalDays,
             AradakiFarkSaat = (x.BaslangicSaat.ToTimeSpan() - x.KayitZamani.TimeOfDay).TotalHours
-            //yukarıdaki sorgu sql e => SELECT [t].[BaslangicZaman], [t].[KayitZamani], [t].[BaslangicSaat], CONVERT(time, [t].[KayitZamani]) FROM[tableonur] AS[t] şeklinde sql query'e çevriliyor.
+            //yukarıdaki sorgu sql e => SELECT [k].[BaslangicZaman], [k].[KayitZamani], [k].[BaslangicSaat], CONVERT(time, [k].[KayitZamani]) FROM[KayitBilgileri] AS[k] şeklinde sql query'e çevriliyor.
         });
 
         var sqlQuery = query.ToQueryString();
