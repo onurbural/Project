@@ -11,7 +11,7 @@ using Projem1.Models;
 
 namespace Projem1.Migrations
 {
-    [DbContext(typeof(onurContext))]
+    [DbContext(typeof(KayitBilgileriContext))]
     [Migration("20240723120738_updated")]
     partial class updated
     {

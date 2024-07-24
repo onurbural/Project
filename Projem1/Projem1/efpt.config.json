@@ -1,6 +1,6 @@
 ﻿{
    "CodeGenerationMode": 4,
-   "ContextClassName": "onurContext",
+   "ContextClassName": "KayitBilgileriContext",
    "ContextNamespace": null,
    "FilterSchemas": false,
    "IncludeConnectionString": true,
@@ -15,7 +15,7 @@
    "T4TemplatePath": null,
    "Tables": [
       {
-         "Name": "[dbo].[tableonur]",
+         "Name": "[dbo].[KayitBilgileri]",
          "ObjectType": 0
       }
    ],

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\migrations\\kayitbilgilericontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\migrations\\kayitbilgilericontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\kayitbilgilericontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\kayitbilgilericontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\kayitbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\kayitbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\onurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\onurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\migrations\\20240723113024_test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\migrations\\20240723113024_test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\tableonur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\tableonur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\migrations\\20240723120738_updated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\migrations\\20240723120738_updated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,11 +38,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 935,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "KayitBilgileriContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Migrations\\KayitBilgileriContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Projem1\\Migrations\\KayitBilgileriContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Migrations\\KayitBilgileriContextModelSnapshot.cs",
+              "RelativeToolTip": "Projem1\\Migrations\\KayitBilgileriContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:32:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240723113024_test.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Migrations\\20240723113024_test.Designer.cs",
+              "RelativeDocumentMoniker": "Projem1\\Migrations\\20240723113024_test.Designer.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Migrations\\20240723113024_test.Designer.cs",
+              "RelativeToolTip": "Projem1\\Migrations\\20240723113024_test.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:32:36.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240723120738_updated.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Migrations\\20240723120738_updated.Designer.cs",
+              "RelativeDocumentMoniker": "Projem1\\Migrations\\20240723120738_updated.Designer.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Migrations\\20240723120738_updated.Designer.cs",
+              "RelativeToolTip": "Projem1\\Migrations\\20240723120738_updated.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:32:27.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KayitBilgileriContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\KayitBilgileriContext.cs",
+              "RelativeDocumentMoniker": "Projem1\\Models\\KayitBilgileriContext.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\KayitBilgileriContext.cs",
+              "RelativeToolTip": "Projem1\\Models\\KayitBilgileriContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:27:56.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KayitBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\KayitBilgileri.cs",
+              "RelativeDocumentMoniker": "Projem1\\Models\\KayitBilgileri.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\KayitBilgileri.cs",
+              "RelativeToolTip": "Projem1\\Models\\KayitBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:27:52.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "efpt.config.json",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\efpt.config.json",
               "RelativeDocumentMoniker": "Projem1\\efpt.config.json",
@@ -42,39 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tableonur.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Tableonur.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Tableonur.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Tableonur.cs",
-              "RelativeToolTip": "Projem1\\Models\\Tableonur.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T09:35:11.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "onurContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\onurContext.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\onurContext.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\onurContext.cs",
-              "RelativeToolTip": "Projem1\\Models\\onurContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAewBYAAAC6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T09:35:08.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Program.cs",
               "RelativeDocumentMoniker": "Projem1\\Program.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Program.cs",
               "RelativeToolTip": "Projem1\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwA8AAAC+AAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywBUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T09:34:06.07Z",
               "EditorCaption": ""

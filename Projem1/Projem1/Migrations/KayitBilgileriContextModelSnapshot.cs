@@ -3,7 +3,6 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Projem1.Models;
 
@@ -12,11 +11,9 @@ using Projem1.Models;
 namespace Projem1.Migrations
 {
     [DbContext(typeof(KayitBilgileriContext))]
-    [Migration("20240723113024_test")]
-    partial class test
+    partial class KayitBilgileriContextModelSnapshot : ModelSnapshot
     {
-        /// <inheritdoc />
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -25,13 +22,16 @@ namespace Projem1.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Projem1.Models.Tableonur", b =>
+            modelBuilder.Entity("Projem1.Models.KayitBilgileri", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<TimeOnly>("BaslangicSaat")
+                        .HasColumnType("time");
 
                     b.Property<DateOnly>("BaslangicZaman")
                         .HasColumnType("date");
@@ -45,7 +45,7 @@ namespace Projem1.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("tableonur", (string)null);
+                    b.ToTable("KayitBilgileri", (string)null);
                 });
 #pragma warning restore 612, 618
         }
